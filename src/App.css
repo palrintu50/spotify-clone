@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  align-items: center;
+  margin: 10px 50px;
+}
+.three-cards{
+  display: flex;
+}
